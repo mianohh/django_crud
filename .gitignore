@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+/bin/
+/include/
+/lib/
+/lib64
+/pyvenv.cfg
+
+# Local Django data and uploaded media
+/project/db.sqlite3
+/project/media/
